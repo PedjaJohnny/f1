@@ -1,0 +1,55 @@
+{
+  "date": "Датум",
+  "time": "Време",
+  "event": "Формула 1 Велика награда догађаји",
+  "notice": {
+    "text": "Првих 8 трка ревидираног календара у наставку.",
+    "link": "Прочитај више"
+  },
+  "badges": {
+    "tbc": "TBC",
+    "tbc_title": "Биће потврђено",
+    "tickets": "Карте",
+    "canceled": "Отказано",
+    "next": "СЛЕДЕЋЕ"
+  },
+  "schedule": {
+    "fp1": "Слободан тренинг 1",
+    "fp2": "Слободан тренинг 2",
+    "fp3": "Слободан тренинг 3",
+    "qualifying": "Квалификације",
+    "race": "Трка"
+  },
+  "races": {
+    "austrian-grand-prix": "Велика награда Аустрије",
+    "steiermark-grand-prix": "Велика награда Штајерске (Аустрија)",
+    "hungary-grand-prix": "Велика награда Мађарске",
+    "british-grand-prix": "Велика награда Велике Британије",
+    "anniversary-british-grand-prix": "Велика награда 70-та годишњица (В. Британија)",
+    "spanish-grand-prix": "Велика награда Шпаније",
+    "belgian-grand-prix": "Велика награда Белгије",
+    "italian-grand-prix": "Велика награда Италије",
+    "australian-grand-prix": "Велика награда Аустралије",
+    "bahrain-grand-prix": "Велика награда Бахреина",
+    "vietnamese-grand-prix": "Велика награда Вијетнама",
+    "china-grand-prix": "Велика награда Кине",
+    "dutch-grand-prix": "Велика награда Холандије",
+    "monaco-grand-prix": "Велика награда Монака",
+    "azerbaijan-grand-prix": "Велика награда Азербејџана",
+    "canadian-grand-prix": "Велика награда Канаде",
+    "french-grand-prix": "Велика награда Француске",
+    "singapore-grand-prix": "Велика награда Сингапура",
+    "russian-grand-prix": "Велика награда Русије",
+    "japanese-grand-prix": "Велика награда Јапана",
+    "us-grand-prix": "Велика награда САД",
+    "mexico-grand-prix": "Велика награда Мексика",
+    "brazilian-grand-prix": "Велика награда Бразила",
+    "abu-dhabi-grand-prix": "Велика награда Абу Дабија",
+    "tuscan-grand-prix": "Велика награда Тоскане",
+    "eifel-grand-prix": "Велика награда Ејфела",
+    "portuguese-grand-prix": "Велика награда Португалије",
+    "emilia-romagna-grand-prix": "Велика награда Emilia Romagna",
+    "sakhir-grand-prix": "Велика награда Sakhir (Бахреин)",
+    "turkish-grand-prix": "Велика награда Турске"
+  }
+}
